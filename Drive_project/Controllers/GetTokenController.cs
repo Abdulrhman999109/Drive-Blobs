@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Drive_project.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("v1/[controller]")]
     [ApiController]
     public class GetTokenController : ControllerBase
     {

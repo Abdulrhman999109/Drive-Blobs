@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\Drive_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\controllers\\gettokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\controllers\\gettokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\tests\\integration\\blobdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\tests\\integration\\blobdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\controllers\\blobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\controllers\\blobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\controllers\\gettokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\controllers\\gettokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,24 +150,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GetTokenController.cs",
               "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Controllers\\GetTokenController.cs",
               "RelativeDocumentMoniker": "Drive_project\\Controllers\\GetTokenController.cs",
               "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Controllers\\GetTokenController.cs",
               "RelativeToolTip": "Drive_project\\Controllers\\GetTokenController.cs",
-              "ViewState": "AgIAAAMAAADAZWZmZmYUwA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T14:14:21.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BlobDbTests.cs",
               "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Tests\\Integration\\BlobDbTests.cs",
               "RelativeDocumentMoniker": "Drive_project\\Tests\\Integration\\BlobDbTests.cs",
@@ -188,8 +188,7 @@
               "RelativeToolTip": "Drive_project\\Tests\\unit\\JwtTests.cs",
               "ViewState": "AgIAABYAAAAAJjMzMzPjvyEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:50:16.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T10:50:16.874Z"
             },
             {
               "$type": "Document",
@@ -201,8 +200,7 @@
               "RelativeToolTip": "Drive_project\\Utils\\Base64Strict.cs",
               "ViewState": "AgIAACMAAAAAyszMzMwEwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:12:19.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:12:19.801Z"
             },
             {
               "$type": "Document",
@@ -214,8 +212,7 @@
               "RelativeToolTip": "Drive_project\\Utils\\JwtUtil.cs",
               "ViewState": "AgIAABYAAABgzMzMzMwvwBMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T09:46:01.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T09:46:01.681Z"
             },
             {
               "$type": "Document",
@@ -227,12 +224,11 @@
               "RelativeToolTip": "Drive_project\\Program.cs",
               "ViewState": "AgIAADEAAABAnJmZmZkdwDEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:32:18.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:32:18.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BlobsController.cs",
               "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Controllers\\BlobsController.cs",
               "RelativeDocumentMoniker": "Drive_project\\Controllers\\BlobsController.cs",
@@ -240,8 +236,7 @@
               "RelativeToolTip": "Drive_project\\Controllers\\BlobsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:41:41.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:41:41.014Z"
             },
             {
               "$type": "Document",
@@ -253,8 +248,7 @@
               "RelativeToolTip": "Drive_project\\Stores\\S3Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:50:02.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:50:02.866Z"
             },
             {
               "$type": "Document",
@@ -266,8 +260,7 @@
               "RelativeToolTip": "Drive_project\\Stores\\Local.cs",
               "ViewState": "AgIAABkAAABgyszMzMwiwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T04:07:01.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T04:07:01.568Z"
             },
             {
               "$type": "Document",
@@ -279,8 +272,7 @@
               "RelativeToolTip": "Drive_project\\Extensions\\JwtExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:10:50.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T10:10:50.101Z"
             },
             {
               "$type": "Document",
@@ -292,8 +284,7 @@
               "RelativeToolTip": "Drive_project\\Stores\\FtpClient.cs",
               "ViewState": "AgIAAD8AAAAAa2ZmZmYSwDcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:45:10.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:45:10.55Z"
             },
             {
               "$type": "Document",
@@ -305,8 +296,7 @@
               "RelativeToolTip": "Drive_project\\Services\\IServices\\IBlobsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:51:43.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:51:43.942Z"
             },
             {
               "$type": "Document",
@@ -318,8 +308,7 @@
               "RelativeToolTip": "Drive_project\\Services\\BlobsService.cs",
               "ViewState": "AgIAAF8AAAAA//////8twCUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:53:23.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:53:23.236Z"
             },
             {
               "$type": "Document",
@@ -331,8 +320,7 @@
               "RelativeToolTip": "Drive_project\\Repositories\\MetaRepository.cs",
               "ViewState": "AgIAABEAAACYMzMzMzMwwAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:50:23.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:50:23.647Z"
             },
             {
               "$type": "Document",
@@ -344,8 +332,7 @@
               "RelativeToolTip": "Drive_project\\Repositories\\DataRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:54:41.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:54:41.768Z"
             },
             {
               "$type": "Document",
@@ -357,8 +344,7 @@
               "RelativeToolTip": "Drive_project\\Models\\MetaBlob.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:35:27.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:35:27.542Z"
             },
             {
               "$type": "Document",
@@ -370,8 +356,7 @@
               "RelativeToolTip": "Drive_project\\Models\\DataBlob.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:34:16.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:34:16.212Z"
             },
             {
               "$type": "Document",
@@ -383,8 +368,7 @@
               "RelativeToolTip": "Drive_project\\Middleware\\NotFoundMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:31:38.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:31:38.373Z"
             },
             {
               "$type": "Document",
@@ -396,8 +380,7 @@
               "RelativeToolTip": "Drive_project\\Middleware\\ErrorHandlingMiddleware.cs",
               "ViewState": "AgIAACMAAACANDMzMzMmwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:30:47.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:30:47.604Z"
             },
             {
               "$type": "Document",
@@ -409,8 +392,7 @@
               "RelativeToolTip": "Drive_project\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:38:20.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:38:20.989Z"
             },
             {
               "$type": "Document",
@@ -422,8 +404,7 @@
               "RelativeToolTip": "Drive_project\\Config\\Storage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:17:22.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:17:22.847Z"
             },
             {
               "$type": "Document",
@@ -435,8 +416,7 @@
               "RelativeToolTip": "Drive_project\\Config\\S3SignatureHelper.cs",
               "ViewState": "AgIAACQAAADgy8zMzMwqwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:27:02.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:27:02.414Z"
             },
             {
               "$type": "Document",
@@ -448,8 +428,7 @@
               "RelativeToolTip": "Drive_project\\Config\\S3Config.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:22:03.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:22:03.346Z"
             },
             {
               "$type": "Document",
@@ -461,8 +440,7 @@
               "RelativeToolTip": "Drive_project\\Config\\JwtHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:24:05.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:24:05.401Z"
             },
             {
               "$type": "Document",
@@ -474,8 +452,7 @@
               "RelativeToolTip": "Drive_project\\Config\\FtpConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:20:49.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:20:49.93Z"
             },
             {
               "$type": "Document",
@@ -487,8 +464,7 @@
               "RelativeToolTip": "Drive_project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-05T02:31:54.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:31:54.584Z"
             },
             {
               "$type": "Document",
@@ -500,8 +476,7 @@
               "RelativeToolTip": "Drive_project\\Repositories\\IRepositories\\IMetaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:49:18.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:49:18.498Z"
             },
             {
               "$type": "Document",
@@ -513,8 +488,7 @@
               "RelativeToolTip": "Drive_project\\Repositories\\IRepositories\\IDataRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:54:18.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:54:18.53Z"
             },
             {
               "$type": "Document",
@@ -526,8 +500,7 @@
               "RelativeToolTip": "Drive_project\\Dto\\CreateBlobDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:01:40.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:01:40.385Z"
             },
             {
               "$type": "Document",
@@ -539,8 +512,7 @@
               "RelativeToolTip": "Drive_project\\Dto\\BlobDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:02:34.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T03:02:34.688Z"
             },
             {
               "$type": "Document",
@@ -552,8 +524,7 @@
               "RelativeToolTip": "Drive_project\\Drive_project.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T02:33:36.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T02:33:36.619Z"
             },
             {
               "$type": "Document",

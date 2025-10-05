@@ -528,3 +528,4 @@ D:\Repos\Drive_project\Drive_project\obj\Debug\net8.0\refint\Drive_project.dll
 D:\Repos\Drive_project\Drive_project\obj\Debug\net8.0\Drive_project.pdb
 D:\Repos\Drive_project\Drive_project\obj\Debug\net8.0\Drive_project.genruntimeconfig.cache
 D:\Repos\Drive_project\Drive_project\obj\Debug\net8.0\ref\Drive_project.dll
+D:\Repos\Drive_project\Drive_project\obj\Debug\net8.0\Drive_project.sourcelink.json
