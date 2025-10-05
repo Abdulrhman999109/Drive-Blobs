@@ -1,0 +1,611 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Drive_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\tests\\integration\\blobdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\tests\\integration\\blobdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\controllers\\blobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\controllers\\blobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\controllers\\gettokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\controllers\\gettokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\utils\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\utils\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\utils\\base64strict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\utils\\base64strict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\tests\\unit\\jwttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\tests\\unit\\jwttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\stores\\s3client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\stores\\s3client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\stores\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\stores\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\stores\\ftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\stores\\ftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\services\\iservices\\iblobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\services\\iservices\\iblobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\services\\blobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\services\\blobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\repositories\\metarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\repositories\\metarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\repositories\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\repositories\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\models\\metablob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\models\\metablob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\models\\datablob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\models\\datablob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\middleware\\notfoundmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\middleware\\notfoundmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\config\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\config\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\config\\s3signaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\config\\s3signaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\config\\s3config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\config\\s3config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\config\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\config\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\config\\ftpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\config\\ftpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\repositories\\irepositories\\imetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\repositories\\irepositories\\imetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\repositories\\irepositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\repositories\\irepositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\dto\\createblobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\dto\\createblobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\dto\\blobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\dto\\blobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\drive_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\drive_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\services\\iservices\\iftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\services\\iservices\\iftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\services\\iservices\\is3client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\services\\iservices\\is3client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\services\\iservices\\ilocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\services\\iservices\\ilocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|d:\\repos\\drive_project\\drive_project\\migrations\\20251005042420_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AAE671-3D4E-408B-8ED1-03598BFB8A00}|Drive_project\\Drive_project.csproj|solutionrelative:drive_project\\migrations\\20251005042420_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTokenController.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Controllers\\GetTokenController.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Controllers\\GetTokenController.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Controllers\\GetTokenController.cs",
+              "RelativeToolTip": "Drive_project\\Controllers\\GetTokenController.cs",
+              "ViewState": "AgIAAAMAAADAZWZmZmYUwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:14:21.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlobDbTests.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Tests\\Integration\\BlobDbTests.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Tests\\Integration\\BlobDbTests.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Tests\\Integration\\BlobDbTests.cs",
+              "RelativeToolTip": "Drive_project\\Tests\\Integration\\BlobDbTests.cs",
+              "ViewState": "AgIAAB8AAABAMzMzMzMswFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:40:33.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTests.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Tests\\unit\\JwtTests.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Tests\\unit\\JwtTests.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Tests\\unit\\JwtTests.cs",
+              "RelativeToolTip": "Drive_project\\Tests\\unit\\JwtTests.cs",
+              "ViewState": "AgIAABYAAAAAJjMzMzPjvyEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:50:16.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Base64Strict.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Utils\\Base64Strict.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Utils\\Base64Strict.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Utils\\Base64Strict.cs",
+              "RelativeToolTip": "Drive_project\\Utils\\Base64Strict.cs",
+              "ViewState": "AgIAACMAAAAAyszMzMwEwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:12:19.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtUtil.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Utils\\JwtUtil.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Utils\\JwtUtil.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Utils\\JwtUtil.cs",
+              "RelativeToolTip": "Drive_project\\Utils\\JwtUtil.cs",
+              "ViewState": "AgIAABYAAABgzMzMzMwvwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:46:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Program.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Program.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Program.cs",
+              "RelativeToolTip": "Drive_project\\Program.cs",
+              "ViewState": "AgIAADEAAABAnJmZmZkdwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:32:18.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlobsController.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Controllers\\BlobsController.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Controllers\\BlobsController.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Controllers\\BlobsController.cs",
+              "RelativeToolTip": "Drive_project\\Controllers\\BlobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:41:41.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "S3Client.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Stores\\S3Client.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Stores\\S3Client.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Stores\\S3Client.cs",
+              "RelativeToolTip": "Drive_project\\Stores\\S3Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:50:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Local.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Stores\\Local.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Stores\\Local.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Stores\\Local.cs",
+              "RelativeToolTip": "Drive_project\\Stores\\Local.cs",
+              "ViewState": "AgIAABkAAABgyszMzMwiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:07:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtExtensions.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Extensions\\JwtExtensions.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Extensions\\JwtExtensions.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Extensions\\JwtExtensions.cs",
+              "RelativeToolTip": "Drive_project\\Extensions\\JwtExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:10:50.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FtpClient.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Stores\\FtpClient.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Stores\\FtpClient.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Stores\\FtpClient.cs",
+              "RelativeToolTip": "Drive_project\\Stores\\FtpClient.cs",
+              "ViewState": "AgIAAD8AAAAAa2ZmZmYSwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:45:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBlobsService.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\IBlobsService.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Services\\IServices\\IBlobsService.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\IBlobsService.cs",
+              "RelativeToolTip": "Drive_project\\Services\\IServices\\IBlobsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:51:43.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlobsService.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Services\\BlobsService.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Services\\BlobsService.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Services\\BlobsService.cs",
+              "RelativeToolTip": "Drive_project\\Services\\BlobsService.cs",
+              "ViewState": "AgIAAF8AAAAA//////8twCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:53:23.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MetaRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\MetaRepository.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Repositories\\MetaRepository.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\MetaRepository.cs",
+              "RelativeToolTip": "Drive_project\\Repositories\\MetaRepository.cs",
+              "ViewState": "AgIAABEAAACYMzMzMzMwwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:50:23.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\DataRepository.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Repositories\\DataRepository.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\DataRepository.cs",
+              "RelativeToolTip": "Drive_project\\Repositories\\DataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:54:41.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MetaBlob.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Models\\MetaBlob.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Models\\MetaBlob.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Models\\MetaBlob.cs",
+              "RelativeToolTip": "Drive_project\\Models\\MetaBlob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:35:27.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataBlob.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Models\\DataBlob.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Models\\DataBlob.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Models\\DataBlob.cs",
+              "RelativeToolTip": "Drive_project\\Models\\DataBlob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:34:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotFoundMiddleware.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Middleware\\NotFoundMiddleware.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Middleware\\NotFoundMiddleware.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Middleware\\NotFoundMiddleware.cs",
+              "RelativeToolTip": "Drive_project\\Middleware\\NotFoundMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:31:38.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Drive_project\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAACMAAACANDMzMzMmwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:30:47.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Drive_project\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:38:20.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Config\\Storage.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Config\\Storage.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Config\\Storage.cs",
+              "RelativeToolTip": "Drive_project\\Config\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:17:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "S3SignatureHelper.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Config\\S3SignatureHelper.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Config\\S3SignatureHelper.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Config\\S3SignatureHelper.cs",
+              "RelativeToolTip": "Drive_project\\Config\\S3SignatureHelper.cs",
+              "ViewState": "AgIAACQAAADgy8zMzMwqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:27:02.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "S3Config.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Config\\S3Config.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Config\\S3Config.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Config\\S3Config.cs",
+              "RelativeToolTip": "Drive_project\\Config\\S3Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:22:03.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Config\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Config\\JwtHelper.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Config\\JwtHelper.cs",
+              "RelativeToolTip": "Drive_project\\Config\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:24:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FtpConfig.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Config\\FtpConfig.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Config\\FtpConfig.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Config\\FtpConfig.cs",
+              "RelativeToolTip": "Drive_project\\Config\\FtpConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:20:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\appsettings.json",
+              "RelativeDocumentMoniker": "Drive_project\\appsettings.json",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\appsettings.json",
+              "RelativeToolTip": "Drive_project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T02:31:54.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMetaRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\IRepositories\\IMetaRepository.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Repositories\\IRepositories\\IMetaRepository.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\IRepositories\\IMetaRepository.cs",
+              "RelativeToolTip": "Drive_project\\Repositories\\IRepositories\\IMetaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:49:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\IRepositories\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Repositories\\IRepositories\\IDataRepository.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Repositories\\IRepositories\\IDataRepository.cs",
+              "RelativeToolTip": "Drive_project\\Repositories\\IRepositories\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:54:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateBlobDto.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Dto\\CreateBlobDto.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Dto\\CreateBlobDto.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Dto\\CreateBlobDto.cs",
+              "RelativeToolTip": "Drive_project\\Dto\\CreateBlobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:01:40.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BlobDto.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Dto\\BlobDto.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Dto\\BlobDto.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Dto\\BlobDto.cs",
+              "RelativeToolTip": "Drive_project\\Dto\\BlobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:02:34.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Drive_project.csproj",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Drive_project.csproj",
+              "RelativeDocumentMoniker": "Drive_project\\Drive_project.csproj",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Drive_project.csproj",
+              "RelativeToolTip": "Drive_project\\Drive_project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T02:33:36.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFtpClient.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\IFtpClient.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Services\\IServices\\IFtpClient.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\IFtpClient.cs",
+              "RelativeToolTip": "Drive_project\\Services\\IServices\\IFtpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:23:28.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IS3Client.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\IS3Client.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Services\\IServices\\IS3Client.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\IS3Client.cs",
+              "RelativeToolTip": "Drive_project\\Services\\IServices\\IS3Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:22:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILocal.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\ILocal.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Services\\IServices\\ILocal.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Services\\IServices\\ILocal.cs",
+              "RelativeToolTip": "Drive_project\\Services\\IServices\\ILocal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:08:21.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251005042420_init.cs",
+              "DocumentMoniker": "D:\\Repos\\Drive_project\\Drive_project\\Migrations\\20251005042420_init.cs",
+              "RelativeDocumentMoniker": "Drive_project\\Migrations\\20251005042420_init.cs",
+              "ToolTip": "D:\\Repos\\Drive_project\\Drive_project\\Migrations\\20251005042420_init.cs",
+              "RelativeToolTip": "Drive_project\\Migrations\\20251005042420_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:24:21.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Drive_project.Controllers.GetTokenController",
+    "Method": "GetToken",
+    "RelativePath": "api/GetToken/token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Drive_project.Controllers.BlobsController",
+    "Method": "Create",
+    "RelativePath": "v1/Blobs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Drive_project.Dto.CreateBlobDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Drive_project.Controllers.BlobsController",
+    "Method": "Get",
+    "RelativePath": "v1/Blobs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
